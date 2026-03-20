@@ -1,0 +1,6 @@
+# Regras do Projeto (Cursor)
+
+- Novas views, layouts ou páginas de UI: seguir a skill do projeto **stitch-rails-pages** (`.cursor/skills/stitch-rails-pages/SKILL.md`) — usar MCP **Stitch** para obter/gerar ecrãs antes de implementar ERB.
+- Todo desenvolvimento, correção ou refatoração no código deve vir acompanhado de `specs` criadas via `rspec` para garantir a integridade.
+- Sempre que houver mudança de comportamento (model, validação, controller, service, validação de parâmetros, rotas, etc.), adicionar/atualizar os testes correspondentes (unitários e/ou de integração).
+- Antes de concluir uma entrega, garantir que `bundle exec rspec` passa.
