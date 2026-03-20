@@ -7,12 +7,13 @@ Uma Pokédex construída **em uma hora** com **Ruby on Rails 7.1** e **PostgreSQ
 ### Index — Listagem
 
 <!-- Substitua pelo caminho real da imagem -->
-![Pokédex Index](docs/screenshots/index.png)
+<img width="1710" height="1026" alt="image" src="https://github.com/user-attachments/assets/046e1770-6e22-45ff-ae67-30b5b83201b8" />
+
 
 ### Show — Detalhe
 
 <!-- Substitua pelo caminho real da imagem -->
-![Pokémon Show](docs/screenshots/show.png)
+<img width="1710" height="1026" alt="image" src="https://github.com/user-attachments/assets/7d0217f8-e750-4634-81ea-80f0bec86202" />
 
 ---
 
